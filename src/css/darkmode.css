@@ -1,0 +1,37 @@
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #253040;
+    color: #FFFFFF;
+  }
+  
+  article {
+    background-color: #536B78;
+  }
+
+  article .title-daily {
+    color: #253040;
+    border-bottom: 2px solid #253040;
+  }
+
+  article .mood {
+    background-color: #253040;
+    color: #FFFFFF;
+  }
+
+  .nav-posts a {
+    color: #FFFFFF;
+  }
+
+  .portfolio-box {
+    background-color: #536B78;
+  }
+
+  footer {
+    color: #FFFFFF;
+  }
+
+  footer a {
+    color: #FFFFFF;
+  }
+
+}
