@@ -5,13 +5,20 @@
   }
 
   .nav-bar ul {
-    gap: 30px;
+    gap: 10px;
     height: 80%;
   }
 
   .nav-bar li a {
     font-size: 18px;
   }
+
+  .nav-bar li:not(:last-child)::after {
+  margin-left: 10px;
+  color: #FFFFFF;
+}
+
+
 
   .title-blog {
     height: 250px;
