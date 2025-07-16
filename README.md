@@ -47,6 +47,12 @@ Projeto/
 
 DevLog: https://mariana4ads.github.io/diariodev
 
+## ⚙️ Futuras melhorias / ajustes 
+
+Pretendo continuar desenvolvendo o site à medida que aprendo novas tecnologias e boas práticas — incluindo melhorias como:
+- [ ]   Header de navegação fixo
+- [ ]   Botão manual para alternar entre modo claro e escuro
+- [ ]   Menu hambúrguer para dispositivos móveis
 
 ---
 
